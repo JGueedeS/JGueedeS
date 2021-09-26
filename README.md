@@ -1,7 +1,8 @@
+<img src="https://i.pinimg.com/564x/5d/09/94/5d099453eccbcf5f8d452f57167dd748.jpg" width="290px">
 <div align="center">
 <h3>Fala ai campeão</h3></br>
 </div>
-<img src="https://w7.pngwing.com/pngs/656/353/png-transparent-smiley-lol-emoticon-laughter-laughing-laughing-emoticon-illustration-miscellaneous-cartoon-stock-photography-thumbnail.png" width="290px"> 
+ 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
