@@ -1,4 +1,7 @@
-## Fala ai meu peixe👋
+<div align="center">
+<h3>Fala ai campeão</h3></br>
+</div>
+<img src="https://w7.pngwing.com/pngs/656/353/png-transparent-smiley-lol-emoticon-laughter-laughing-laughing-emoticon-illustration-miscellaneous-cartoon-stock-photography-thumbnail.png" width="290px"> 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,9 +20,19 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
-
-
-
-
+<div align="center">
+<h3 align="center"> Meus contatos<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/jeffersongueedes/" target="blank">
+<img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+</a>
+<a href="https://www.instagram.com/jgueedes/" target="blank">
+<img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+</a>
+<br/>
+<br/>
+<div align="center">
+<h3 align="center">OBRIGADO</h3></br>
+<img align="center" src="https://c.tenor.com/pUHK9yNpRj8AAAAM/casimito-casimiro.gif"/>
+</div>
