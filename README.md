@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/jeffersongueedes/" target="blank">
 <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
 </a>
-<a href="https://www.instagram.com/jgueedes/" target="blank">
+<a href="https://www.instagram.com/gueedes.jpeg/" target="blank">
 <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
 </a>
 <br/>
