@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.instagram.com/gueedes.jpeg/" target="blank">
+<a href="https://www.instagram.com/httpsguedes_/" target="blank">
 <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
 </a>
 </div>
