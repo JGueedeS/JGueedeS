@@ -12,8 +12,6 @@ I believe in the power of technology to break barriers and create opportunities.
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
-
 <br/>
 <br/>
 <div>
