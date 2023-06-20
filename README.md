@@ -42,7 +42,6 @@ const jeffersonGUEDES = {
 ## ⭐ Informações sobre minha conta GitHub
 
 <div align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=JGueedeS&theme=dracula&show_icons=true"/>
 
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGueedeS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
