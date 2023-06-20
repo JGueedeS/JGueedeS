@@ -39,7 +39,7 @@ const jeffersonGUEDES = {
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 
 <div align="center">
 
