@@ -1,4 +1,4 @@
-## 👋 Welcome! I'm Jefferson Guedes, a young technology enthusiast from the outskirts.
+## 👋 Welcome! I'm Jefferson Guedes, a young technology enthusiast from the outskirts...
  </br>
 
 <div>
