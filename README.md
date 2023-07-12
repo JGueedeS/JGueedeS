@@ -47,7 +47,14 @@ const jeffersonGUEDES = {
 
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGueedeS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+ <p align="center"> 
+
+ ## Total visits to my profile :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/JGueedeS/count.svg" />
+ </p>
+
+</p> 
 
 <div>
   <h3 align="center">THANK YOU</h3></br>
