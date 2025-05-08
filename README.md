@@ -1,51 +1,42 @@
-## 👋 Welcome! I'm Jefferson Guedes, a young technology enthusiast from the outskirts...
- </br>
+## 👋 Olá, eu sou Jefferson Guedes!
+</br>
 
 <div>
-👨‍🎓 Graduated in systems development at Etec Jardim Ângela and Alicerce.
-I believe in the power of technology to break barriers and create opportunities. Coming from a background in the periphery, I've experienced firsthand the transformative impact that technology can have on individuals and communities. With a passion for learning and a drive to make a difference, I embrace the world of coding and development. Let's connect and embark on this exciting journey together!
+🎓 Formado em Técnico de Desenvolvimento de Sistemas pela ETEC Jardim Ângela  <br>
+🎓 Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC  <br>
+🌍 Acredito no poder da tecnologia para quebrar barreiras e criar oportunidades. <br> 
+
 </div><br>
-
-## 🚀 My Skills
-
-<code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code></code>
-<code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
-<code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
-<code><img height="32" src="https://img.shields.io/badge/PHP-6441a5?style=for-the-badge&logo=PHP&logoColor=white" target="_blank" alt="PHP"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank" alt="PYTHON"/></code>
-
-
-
-<img >
-
-
-<br/>
-<br/>
-
-
-
-
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
-<img align="right" width="300" src="https://i.pinimg.com/originals/cd/b8/95/cdb89580457caa7d13c4384a3d1a367c.gif" />
-
-
-```JavaScript
-const jeffersonGUEDES = {
-  name: "Jefferson Guedes",
-  age: 22,
-  Area: "DESENVOLVIMENTO WEB"
-  
-};
-```
-
-----
-
-
 
 ---
 
-## ⭐ Information about my GitHub account
+## 🚀 Minhas Hablilidades
+
+<code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code>
+<code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
+<code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
+<code><img height="32" src="https://img.shields.io/badge/PHP-6441a5?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/></code>
+
+<br/>
+<br/>
+
+---
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+<img align="right" width="300" src="https://i.pinimg.com/originals/cd/b8/95/cdb89580457caa7d13c4384a3d1a367c.gif" />
+
+```javascript
+const jeffersonGUEDES = {
+  nome: "Jefferson Guedes",
+  idade: 22,
+  formação: ["Técnico em ADS", "Tecnólogo em ADS"],
+  foco: "Desenvolvimento em Pyhton"
+};
+```
+---
+
+## ⭐ Mais Informações
 
 <div align="center">
 
@@ -53,7 +44,7 @@ const jeffersonGUEDES = {
 </div>
  <p align="center"> 
 
- ## Total visits to my profile :detective: <br>
+ ## Total de visitas no meu perrfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/JGueedeS/count.svg" />
  </p>
@@ -61,5 +52,5 @@ const jeffersonGUEDES = {
 </p> 
 
 <div>
-  <h3 align="center">THANK YOU</h3></br>
+  <h3 align="center">🤝 Obrigado!</h3></br>
 </div>
